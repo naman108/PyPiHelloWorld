@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'testpackage',         # How you named your package folder (MyLib)
-  packages = ['testpackage'],   # Chose the same as "name"
+  name = 'testpackagedjwihdowaoidoiwah',         # How you named your package folder (MyLib)
+  packages = ['testpackagedjwihdowaoidoiwah'],   # Chose the same as "name"
   version = '0.8.6',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'TYPE YOUR DESCRIPTION HERE',   # Give a short description about your library
